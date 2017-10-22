@@ -1,0 +1,9 @@
+*.log
+**/target
+/resources/public/css/compiled
+/resources/public/js/compiled
+**/out
+.lein-*
+*~
+.\#*
+\#*\#
